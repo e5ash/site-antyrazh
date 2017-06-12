@@ -1,0 +1,135 @@
+i.icon {
+  display: inline-block;
+  vertical-align: middle; }
+
+i.icon-adv_guarantee {
+  background-image: url(../img/sprite.png);
+  background-position: 0px -89px;
+  width: 83px;
+  height: 101px; }
+
+i.icon-adv_price {
+  background-image: url(../img/sprite.png);
+  background-position: -174px 0px;
+  width: 84px;
+  height: 86px; }
+
+i.icon-adv_prof {
+  background-image: url(../img/sprite.png);
+  background-position: -96px -99px;
+  width: 77px;
+  height: 95px; }
+
+i.icon-adv_quality {
+  background-image: url(../img/sprite.png);
+  background-position: -96px 0px;
+  width: 78px;
+  height: 99px; }
+
+i.icon-arrow-left {
+  background-image: url(../img/sprite.png);
+  background-position: -147px -194px;
+  width: 23px;
+  height: 61px; }
+
+i.icon-arrow-right {
+  background-image: url(../img/sprite.png);
+  background-position: -96px -266px;
+  width: 23px;
+  height: 61px; }
+
+i.icon-clients {
+  background-image: url(../img/sprite.png);
+  background-position: -174px -86px;
+  width: 77px;
+  height: 91px; }
+
+i.icon-clock {
+  background-image: url(../img/sprite.png);
+  background-position: -200px -367px;
+  width: 26px;
+  height: 26px; }
+
+i.icon-close_button {
+  background-image: url(../img/sprite.png);
+  background-position: -174px -325px;
+  width: 43px;
+  height: 42px; }
+
+i.icon-fb {
+  background-image: url(../img/sprite.png);
+  background-position: -217px -325px;
+  width: 35px;
+  height: 35px; }
+
+i.icon-inst {
+  background-image: url(../img/sprite.png);
+  background-position: -119px -266px;
+  width: 35px;
+  height: 35px; }
+
+i.icon-map {
+  background-image: url(../img/sprite.png);
+  background-position: -226px -367px;
+  width: 26px;
+  height: 26px; }
+
+i.icon-ok {
+  background-image: url(../img/sprite.png);
+  background-position: -40px -190px;
+  width: 35px;
+  height: 35px; }
+
+i.icon-one {
+  background-image: url(../img/sprite.png);
+  background-position: 0px -190px;
+  width: 40px;
+  height: 203px; }
+
+i.icon-pay {
+  background-image: url(../img/sprite.png);
+  background-position: -174px -177px;
+  width: 72px;
+  height: 76px; }
+
+i.icon-percent {
+  background-image: url(../img/sprite.png);
+  background-position: -174px -253px;
+  width: 72px;
+  height: 72px; }
+
+i.icon-phone {
+  background-image: url(../img/sprite.png);
+  background-position: -174px -367px;
+  width: 26px;
+  height: 26px; }
+
+i.icon-pin {
+  background-image: url(../img/sprite.png);
+  background-position: -96px -194px;
+  width: 51px;
+  height: 72px; }
+
+i.icon-play_button {
+  background-image: url(../img/sprite.png);
+  background-position: -96px -362px;
+  width: 30px;
+  height: 30px; }
+
+i.icon-vk {
+  background-image: url(../img/sprite.png);
+  background-position: -131px -327px;
+  width: 35px;
+  height: 35px; }
+
+i.icon-years {
+  background-image: url(../img/sprite.png);
+  background-position: 0px 0px;
+  width: 96px;
+  height: 89px; }
+
+i.icon-youtube {
+  background-image: url(../img/sprite.png);
+  background-position: -96px -327px;
+  width: 35px;
+  height: 35px; }
